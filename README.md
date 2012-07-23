@@ -13,3 +13,4 @@ Dictionary Files
 --------------------
 
 * **yahoo-voices.txt.gz** - 342,508 passwords stolen from Yahoo! Voices, sorted by popularity.
+* **unix-fresh-scanner.txt.gz** - 20,882 unix passwords used in an attack script called "fresh scanner" (caught in an SSH honeypot I run).
